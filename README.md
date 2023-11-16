@@ -13,6 +13,6 @@
 ---
 
 <center>
-<img src="https://lanyard-profile-readme.vercel.app/api/500325853108895744?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." width="600" height="300">
+<img src="https://lanyard-profile-readme.vercel.app/api/500325853108895744?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
 </center>
 
