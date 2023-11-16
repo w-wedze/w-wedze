@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm W</h1>
+<div style=background-color:#fff><h1 align="center">Hi 👋, I'm W</h1>
 <h3 align="center">A frontend developer and graphic designer who likes to research.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w-wedze&label=Profile%20views&color=0e75b6&style=flat" alt="w-wedze" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -15,3 +13,6 @@
 <center>
 <img src="https://lanyard-profile-readme.vercel.app/api/500325853108895744?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." width="600" height="300">
 </center>
+
+
+</div>
