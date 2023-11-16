@@ -7,10 +7,8 @@
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=w-wedze&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w-wedze&show_icons=true&locale=en&layout=compact" alt="w-wedze" /></p><br/>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w-wedze&show_icons=true&locale=en" alt="w-wedze" /></p><br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-wedze&" alt="w-wedze" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-wedze&" alt="w-wedze" /></p><br/>
 
 ---
 
