@@ -13,5 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w-wedze&show_icons=true&locale=en" alt="w-wedze" /></p>
 
 <center>
-<img src="https://lanyard.cnrad.dev/api/500325853108895744" width="600" height="300">
+<img src="https://lanyard-profile-readme.vercel.app/api/500325853108895744?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..." width="600" height="300">
 </center>
