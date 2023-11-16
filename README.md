@@ -13,5 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w-wedze&show_icons=true&locale=en" alt="w-wedze" /></p>
 
 <center>
-<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/500325853108895744)](https://discord.com/users/500325853108895744)" width="600" height="300">
+<img src="https://lanyard.cnrad.dev/api/500325853108895744" width="600" height="300">
 </center>
